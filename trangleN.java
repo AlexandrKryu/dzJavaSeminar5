@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class trangleN {
+    /**
+     * Программа вычисления n-ого треугольного числа.
+     */
     public static void main(String[] args) {
         Scanner Scanner = new Scanner(System.in);
         System.out.print("Введите число : ");
